@@ -1,0 +1,4 @@
+E:\MVS2010\Project1\Project1\bin\Debug\Project1.exe
+E:\MVS2010\Project1\Project1\bin\Debug\Project1.pdb
+E:\MVS2010\Project1\Project1\obj\x86\Debug\Project1.exe
+E:\MVS2010\Project1\Project1\obj\x86\Debug\Project1.pdb
